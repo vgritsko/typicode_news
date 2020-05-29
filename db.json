@@ -1,1 +1,59 @@
-
+{
+  "articles" : [
+    {
+      "id":0,
+       "author" : "Yashu Gola1",
+       "title" : "Three Recent Incidents that Prove Bitcoin is Better than Gold1",
+       "content" : "",
+       "description" : "Bitcoin has beaten Gold in terms of returns on investments in its 11-year existence",
+       "urlToImage" : "https://www.newsbtc.com/wp-content/uploads/2020/03/gold-bitcoin-crypto-shutterstock_742063861.jpg",
+       "publishedAt" : "2020-05-14T14:12:32Z",
+       "likes" : 129,
+       "isHot" : true
+    },
+    {
+      "id":1,
+       "author" : "Yashu Gola1",
+       "title" : "Three Recent Incidents that Prove Bitcoin is Better than Gold1",
+       "content" : "",
+       "description" : "Bitcoin has beaten Gold in terms of returns on investments in its 11-year existence",
+       "urlToImage" : "https://www.newsbtc.com/wp-content/uploads/2020/03/gold-bitcoin-crypto-shutterstock_742063861.jpg",
+       "publishedAt" : "2020-05-14T14:12:32Z",
+       "likes" : 132,
+       "isHot" : false
+    },
+     {
+      "id":2,
+       "author" : "Yashu Gola1",
+       "title" : "Three Recent Incidents that Prove Bitcoin is Better than Gold1",
+       "content" : "",
+       "description" : "Bitcoin has beaten Gold in terms of returns on investments in its 11-year existence",
+       "urlToImage" : "https://www.newsbtc.com/wp-content/uploads/2020/03/gold-bitcoin-crypto-shutterstock_742063861.jpg",
+       "publishedAt" : "2020-05-14T14:12:32Z",
+       "likes" : 132,
+       "isHot" : false
+    },
+     {
+      "id":3,
+       "author" : "Yashu Gola1",
+       "title" : "Three Recent Incidents that Prove Bitcoin is Better than Gold1",
+       "content" : "",
+       "description" : "Bitcoin has beaten Gold in terms of returns on investments in its 11-year existence",
+       "urlToImage" : "https://www.newsbtc.com/wp-content/uploads/2020/03/gold-bitcoin-crypto-shutterstock_742063861.jpg",
+       "publishedAt" : "2020-05-14T14:12:32Z",
+       "likes" : 132,
+       "isHot" : false
+    },
+     {
+      "id":4,
+       "author" : "Yashu Gola1",
+       "title" : "Three Recent Incidents that Prove Bitcoin is Better than Gold1",
+       "content" : "",
+       "description" : "Bitcoin has beaten Gold in terms of returns on investments in its 11-year existence",
+       "urlToImage" : "https://www.newsbtc.com/wp-content/uploads/2020/03/gold-bitcoin-crypto-shutterstock_742063861.jpg",
+       "publishedAt" : "2020-05-14T14:12:32Z",
+       "likes" : 132,
+       "isHot" : false
+    }
+  ]
+}
